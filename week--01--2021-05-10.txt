@@ -42,5 +42,6 @@ https://github.com/wlm2012/archiveMiddleware/blob/main/src/main/java/com/wzgjj/a
 
 Share：
 
-略
+Java 线程池配置的常见误区
+https://zhenbianshu.github.io/2020/12/misunderstanding_in_thread_pool_config.html
 
