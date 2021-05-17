@@ -1,6 +1,6 @@
 Algorithm:
 
-
+Algorithm 4 ---1.3.3
 
 
 Review：
@@ -36,8 +36,11 @@ and of course ,creating ESLPod.com lessons.
 
 Tip：
 
+QureyDsl+spring data jpa
 
-
-
+https://github.com/wlm2012/archiveMiddleware/blob/main/src/main/java/com/wzgjj/archiveMiddleware/service/GetDataService.java
 
 Share：
+
+略
+
