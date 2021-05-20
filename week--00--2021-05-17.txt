@@ -4,12 +4,27 @@ Algorithm:
 
 
 Review：
-
+Let me tell you a little about myself.
+I was born and raised in Minnesota ,and I'm a native of the city of Saint Paul.
+I grew up there with my parents,and my eight brothers and two sisters.
+I'm the eleventh child ,so you could say I'm the baby of family,
+but I swear I wasn't spoiled.
+That's right, I'm the part of a big family ,probably the biggest of family in the  neighborhood,
+perhaps ,the biggest family in the state.
+I had a happy childhood, for the most part.
+My father ans mother didn't have a lot of money,
+but because they both worked hard , we never felt deprived.
+I wasn's much interested in sports ,like my brothers were.
+I enjoyed reading and listening to music while growing up.
+I went to grade school near my house,
+and then to high school about two miles away from our home.
+After graduating from high school,
+I went on to the University of Minnesota for my bachelor's degree.
 
 
 
 Tip：
-
+linux：1、文件系统 
 
 
 
